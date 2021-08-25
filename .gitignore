@@ -1,0 +1,5 @@
+*.log
+__pycache__
+nvidia-inspector/
+.DS_Store
+config.env
